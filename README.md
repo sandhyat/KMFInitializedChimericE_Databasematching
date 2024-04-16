@@ -1,5 +1,9 @@
 # KMFInitializedChimericE_Databasematching
 
+## About
+
+Implementation of the data integration methods proposed in the JBI paper [Multi-view representation learning for tabular data integration using inter-feature relationships](https://www.sciencedirect.com/science/article/pii/S1532046424000200).
+
 This repository contains the code used to generate synthetic datasets and the implementation of proposed Chimeric encoder method on synthetic and real datasets.
 Real datasets are not available here due to privacy issues.
 
